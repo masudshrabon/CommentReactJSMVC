@@ -13,7 +13,7 @@ The node_modules folder is a set of packages those are installed using the follo
 
 Finally to build the program you need to do the command:
 
-gulp;
+    gulp;
 
-And run it.
+And run it in VS.
 

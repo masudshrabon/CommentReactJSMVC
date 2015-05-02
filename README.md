@@ -5,7 +5,7 @@ You need to install node.exe to install npm packages.
 
 The project has been made using gulp and browserify.
 
-The node_modules folder is a set of packages those are installed using the following two commands:
+The node_modules folder is a set of packages those are installed using the following two commands in the base CommentReactJSMVC folder:
 
     $ npm install --save-dev gulp;
     
